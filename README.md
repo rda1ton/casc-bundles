@@ -1,2 +1,2 @@
-# casc-bundles
-rda1ton/casc-bundles
+# tsm-rich-dalton-casc
+bundle templates

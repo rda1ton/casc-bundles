@@ -1,0 +1,16 @@
+plugins:
+- id: cloudbees-casc-client
+- id: cloudbees-casc-items-api
+- id: cloudbees-casc-items-commons
+- id: cloudbees-casc-items-controller
+- id: configuration-as-code
+- id: saml
+- id: git
+- id: managed-master-hibernation
+- id: operations-center-cloud
+- id: github-branch-source
+- id: cloudbees-jenkins-advisor
+- id: cloudbees-monitoring
+- id: groovy
+- id: workflow-multibranch
+- id: cloudbees-prometheus

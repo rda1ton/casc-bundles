@@ -1,0 +1,10 @@
+jenkins:
+  systemMessage: "Configured Using CasC"
+  authorizationStrategy: "cloudBeesRoleBasedAccessControl"
+unclassified:
+  hibernationConfiguration:
+    activities:
+    - "build"
+    - "web"
+    enabled: true
+    gracePeriod: 500
