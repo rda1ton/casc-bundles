@@ -1,5 +1,5 @@
 jenkins:
-  systemMessage: "Configured Using CasC 3"
+  systemMessage: "Configured Using CasC"
   authorizationStrategy: "cloudBeesRoleBasedAccessControl"
 unclassified:
   hibernationConfiguration:
